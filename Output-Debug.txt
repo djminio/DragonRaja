@@ -1,0 +1,73 @@
+﻿'DragonRaja.exe' (Win32): Loaded 'C:\Users\MrFor\Documents\AutoPatch\Debug\DragonRaja.exe'. Symbols loaded.
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\user32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\win32u.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\gdi32full.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp_win.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shell32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ole32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mfc140d.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\combase.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\oleaut32.dll'. 
+'DragonRaja.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\oleaut32.dll'
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'DragonRaja.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\vcruntime140d.dll'
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\shlwapi.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\imm32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\uxtheme.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wininet.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\iertutil.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\SHCore.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\windows.storage.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wldp.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\profapi.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\OnDemandConnRouteHelper.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winhttp.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mswsock.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IPHLPAPI.DLL'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winnsi.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nsi.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msctf.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextInputFramework.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreUIComponents.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\CoreMessaging.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntmarta.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\WinTypes.dll'. 
+'DragonRaja.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\WinTypes.dll'
+'DragonRaja.exe' (Win32): Loaded 'C:\Windows\SysWOW64\TextShaping.dll'. 
+Debug Assertion Failed!
+
+Program: C:\WINDOWS\SYSTEM32\mfc140d.dll
+File: d:\a01\_work\2\s\src\vctools\VC7Libs\Ship\ATLMFC\Src\MFC\inet.cpp
+Line: 2430
+
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts.
+
+(Press Retry to debug the application)
+The thread 0x4ab8 has exited with code 3 (0x3).
+The thread 0x27b8 has exited with code 3 (0x3).
+The thread 0x6810 has exited with code 3 (0x3).
+The thread 0x6ef8 has exited with code 3 (0x3).
+The thread 0x3670 has exited with code 3 (0x3).
+The thread 0x45c4 has exited with code 3 (0x3).
+The thread 0x23e4 has exited with code 3 (0x3).
+The program '[7048] DragonRaja.exe' has exited with code 3 (0x3).

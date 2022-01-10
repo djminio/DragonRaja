@@ -90,7 +90,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
-      <OutputFile>C:\Users\MrFor\Documents\AutoPatch\Debug\DragonRaja.exe</OutputFile>
+      <OutputFile>.\Debug\$(ProjectName).exe</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -129,7 +129,7 @@
     <Link>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <SubSystem>Windows</SubSystem>
-      <OutputFile>.\exe\Dragonraja.exe</OutputFile>
+      <OutputFile>.\Release\$(ProjectName).exe</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
