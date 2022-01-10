@@ -411,9 +411,9 @@ extern BOOL DumpException(LPEXCEPTION_POINTERS lpExcep,char* szOutMsg);
 
 void CDragonRajaDlg::OnOK() 
 {
-	EXCEPTION_POINTERS* pException = NULL;//020508 lsw	
-	__try	//020514 lsw
-	{
+	struct EXCEPTION_POINTERS *pException = NULL;//020508 lsw	
+	//__try	//020514 lsw //removed the SEH will work on trying to fix it. Reece 10/01/2022 GMT-0 13.03pm
+	//{
 	if(flag) 
 	{
 		if(bIsWorkThreadFin) 
@@ -461,11 +461,13 @@ void CDragonRajaDlg::OnOK()
 	DeleteFile( "*.tmp");
 //	CDialog::OnOK();
 	}
-	__except(pException = GetExceptionInformation())//020508 lsw
-	{
-		::DumpException( pException, "Exception Raised on WinMain()");		
-	}
-}
+
+
+//	__except(pException=( GetExceptionInformation()))//020508 lsw
+//	{
+//		::DumpException( (LPEXCEPTION_POINTERS)pException, "Exception Raised on WinMain()");//removed the SEH will work on trying to fix it. Reece 10/01/2022 GMT-0 13.03pm
+//	}
+//}
 
 
 

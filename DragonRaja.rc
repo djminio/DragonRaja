@@ -1,4 +1,4 @@
-//Microsoft Developer Studio generated resource script.
+// Microsoft Visual C++ generated resource script.
 //
 #include "resource.h"
 
@@ -13,45 +13,69 @@
 #undef APSTUDIO_READONLY_SYMBOLS
 
 /////////////////////////////////////////////////////////////////////////////
-// Korean resources
+// Korean (Korea) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
-#ifdef _WIN32
 LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
 #pragma code_page(949)
-#endif //_WIN32
 
 /////////////////////////////////////////////////////////////////////////////
 //
 // Bitmap
 //
 
-IDB_SS_CANCEL_DOWN      BITMAP  DISCARDABLE     "res\\ServerSelect\\CN DN.bmp"
-IDB_SS_CANCEL_UP        BITMAP  DISCARDABLE     "res\\ServerSelect\\CN UP.bmp"
-IDB_SS_CANCEL_NORMAL    BITMAP  DISCARDABLE     "res\\ServerSelect\\CN NO.bmp"
-IDB_SS_OK_DOWN          BITMAP  DISCARDABLE     "res\\ServerSelect\\OK DN.bmp"
-IDB_SS_OK_NORMAL        BITMAP  DISCARDABLE     "res\\ServerSelect\\OK NO.bmp"
-IDB_SS_OK_UP            BITMAP  DISCARDABLE     "res\\ServerSelect\\OK UP.bmp"
-IDB_SS_BG               BITMAP  DISCARDABLE     "res\\ServerSelect\\SelectServer BG.bmp"
-IDB_SS_HP_DOWN          BITMAP  DISCARDABLE     "res\\ServerSelect\\HP DN.bmp"
-IDB_SS_HP_NORMAL        BITMAP  DISCARDABLE     "res\\ServerSelect\\HP NO.bmp"
-IDB_SS_HP_UP            BITMAP  DISCARDABLE     "res\\ServerSelect\\HP UP.bmp"
-IDB_NC_BG               BITMAP  DISCARDABLE     "res\\Now Connect\\Connect.bmp"
-IDB_DN_BG               BITMAP  DISCARDABLE     "res\\DownLoad\\DownLoad BG.bmp"
-IDB_DN_CANCEL_DOWN      BITMAP  DISCARDABLE     "res\\DownLoad\\CN_DW.bmp"
-IDB_DN_CANCEL_NORMAL    BITMAP  DISCARDABLE     "res\\DownLoad\\CN_NO.bmp"
-IDB_DN_CANCEL_UP        BITMAP  DISCARDABLE     "res\\DownLoad\\CN_UP.bmp"
-IDB_DN_NEWID_DOWN       BITMAP  DISCARDABLE     "res\\DownLoad\\NI_DN.bmp"
-IDB_DN_NEWID_NORMAL     BITMAP  DISCARDABLE     "res\\DownLoad\\NI_NO.bmp"
-IDB_DN_UPDATE_UP        BITMAP  DISCARDABLE     "res\\DownLoad\\UD_UP.bmp"
-IDB_DN_NEWID_UP         BITMAP  DISCARDABLE     "res\\DownLoad\\NI_UP.bmp"
-IDB_DN_START_DOWN       BITMAP  DISCARDABLE     "res\\DownLoad\\ST_DN.bmp"
-IDB_DN_START_NORMAL     BITMAP  DISCARDABLE     "res\\DownLoad\\ST_NO.bmp"
-IDB_DN_START_UP         BITMAP  DISCARDABLE     "res\\DownLoad\\ST_UP.bmp"
-IDB_UPDATE_DOWN         BITMAP  DISCARDABLE     "res\\DownLoad\\UD_DW.bmp"
-IDB_DN_UPDATE_NORMAL    BITMAP  DISCARDABLE     "res\\DownLoad\\UD_NO.bmp"
-IDB_DN_UPDATE_DOWN      BITMAP  DISCARDABLE     "res\\download\\bitmap1.bmp"
-IDB_NC_BG2              BITMAP  DISCARDABLE     "res\\Now Connect\\Connect2.bmp"
+IDB_SS_CANCEL_DOWN      BITMAP                  "res\\ServerSelect\\CN DN.bmp"
+
+IDB_SS_CANCEL_UP        BITMAP                  "res\\ServerSelect\\CN UP.bmp"
+
+IDB_SS_CANCEL_NORMAL    BITMAP                  "res\\ServerSelect\\CN NO.bmp"
+
+IDB_SS_OK_DOWN          BITMAP                  "res\\ServerSelect\\OK DN.bmp"
+
+IDB_SS_OK_NORMAL        BITMAP                  "res\\ServerSelect\\OK NO.bmp"
+
+IDB_SS_OK_UP            BITMAP                  "res\\ServerSelect\\OK UP.bmp"
+
+IDB_SS_BG               BITMAP                  "res\\ServerSelect\\SelectServer BG.bmp"
+
+IDB_SS_HP_DOWN          BITMAP                  "res\\ServerSelect\\HP DN.bmp"
+
+IDB_SS_HP_NORMAL        BITMAP                  "res\\ServerSelect\\HP NO.bmp"
+
+IDB_SS_HP_UP            BITMAP                  "res\\ServerSelect\\HP UP.bmp"
+
+IDB_NC_BG               BITMAP                  "res\\Now Connect\\Connect.bmp"
+
+IDB_DN_BG               BITMAP                  "res\\DownLoad\\DownLoad BG.bmp"
+
+IDB_DN_CANCEL_DOWN      BITMAP                  "res\\DownLoad\\CN_DW.bmp"
+
+IDB_DN_CANCEL_NORMAL    BITMAP                  "res\\DownLoad\\CN_NO.bmp"
+
+IDB_DN_CANCEL_UP        BITMAP                  "res\\DownLoad\\CN_UP.bmp"
+
+IDB_DN_NEWID_DOWN       BITMAP                  "res\\DownLoad\\NI_DN.bmp"
+
+IDB_DN_NEWID_NORMAL     BITMAP                  "res\\DownLoad\\NI_NO.bmp"
+
+IDB_DN_UPDATE_UP        BITMAP                  "res\\DownLoad\\UD_UP.bmp"
+
+IDB_DN_NEWID_UP         BITMAP                  "res\\DownLoad\\NI_UP.bmp"
+
+IDB_DN_START_DOWN       BITMAP                  "res\\DownLoad\\ST_DN.bmp"
+
+IDB_DN_START_NORMAL     BITMAP                  "res\\DownLoad\\ST_NO.bmp"
+
+IDB_DN_START_UP         BITMAP                  "res\\DownLoad\\ST_UP.bmp"
+
+IDB_UPDATE_DOWN         BITMAP                  "res\\DownLoad\\UD_DW.bmp"
+
+IDB_DN_UPDATE_NORMAL    BITMAP                  "res\\DownLoad\\UD_NO.bmp"
+
+IDB_DN_UPDATE_DOWN      BITMAP                  "res\\download\\bitmap1.bmp"
+
+IDB_NC_BG2              BITMAP                  "res\\Now Connect\\Connect2.bmp"
+
 
 #ifdef APSTUDIO_INVOKED
 /////////////////////////////////////////////////////////////////////////////
@@ -59,18 +83,18 @@ IDB_NC_BG2              BITMAP  DISCARDABLE     "res\\Now Connect\\Connect2.bmp"
 // TEXTINCLUDE
 //
 
-1 TEXTINCLUDE DISCARDABLE 
+1 TEXTINCLUDE 
 BEGIN
     "resource.h\0"
 END
 
-2 TEXTINCLUDE DISCARDABLE 
+2 TEXTINCLUDE 
 BEGIN
     "#include ""afxres.h""\r\n"
     "\0"
 END
 
-3 TEXTINCLUDE DISCARDABLE 
+3 TEXTINCLUDE 
 BEGIN
     "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
     "#define _AFX_NO_OLE_RESOURCES\r\n"
@@ -90,7 +114,7 @@ END
 
 #endif    // APSTUDIO_INVOKED
 
-#endif    // Korean resources
+#endif    // Korean (Korea) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
@@ -98,10 +122,8 @@ END
 // Neutral resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEU)
-#ifdef _WIN32
 LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
 #pragma code_page(1252)
-#endif //_WIN32
 
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -109,7 +131,7 @@ LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
 //
 
 #ifdef APSTUDIO_INVOKED
-GUIDELINES DESIGNINFO DISCARDABLE 
+GUIDELINES DESIGNINFO
 BEGIN
     IDD_DRAGONRAJA_DIALOG, DIALOG
     BEGIN
@@ -144,55 +166,56 @@ END
 //
 
 IDD_DRAGONRAJA_DIALOG DIALOGEX 0, 0, 165, 221
-STYLE WS_POPUP
-FONT 9, "Arial"
+STYLE DS_SETFONT | WS_POPUP
+FONT 7, "Tahoma", 400, 0, 0x0
 BEGIN
-    CONTROL         "CHECK",IDOK,"Button",BS_OWNERDRAW | WS_TABSTOP,60,200,
-                    46,15
-    CONTROL         "CANCEL",IDCANCEL,"Button",BS_OWNERDRAW | WS_TABSTOP,113,
-                    200,46,15
-    LISTBOX         IDC_README,5,50,155,86,LBS_NOINTEGRALHEIGHT | LBS_NOSEL | 
-                    NOT WS_BORDER | WS_VSCROLL | WS_HSCROLL | WS_TABSTOP,
-                    WS_EX_TRANSPARENT | WS_EX_STATICEDGE
-    CONTROL         "Home",IDC_GOHOMEPAGE,"Button",BS_OWNERDRAW | WS_TABSTOP,
-                    5,200,46,15
-    CONTROL         "Progress1",IDC_PROGRESS,"msctls_progress32",PBS_SMOOTH,
-                    57,187,103,7,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
-    CONTROL         "Progress2",IDC_PROGRESS2,"msctls_progress32",PBS_SMOOTH,
-                    5,153,155,7,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
-    LISTBOX         IDC_LIST1,5,141,101,12,LBS_SORT | LBS_NOINTEGRALHEIGHT | 
-                    LBS_NOSEL | NOT WS_BORDER,WS_EX_TRANSPARENT | 
-                    WS_EX_STATICEDGE
-    LISTBOX         IDC_LIST3,57,169,103,12,NOT LBS_NOTIFY | LBS_NOSEL | NOT 
-                    WS_BORDER,WS_EX_TRANSPARENT | WS_EX_RIGHT | 
-                    WS_EX_STATICEDGE
-    LISTBOX         IDC_LIST4,57,178,103,12,NOT LBS_NOTIFY | LBS_SORT | 
-                    LBS_NOSEL | NOT WS_BORDER,WS_EX_TRANSPARENT | 
-                    WS_EX_RIGHT | WS_EX_STATICEDGE
-    EDITTEXT        IDC_EDIT1,106,141,54,12,ES_RIGHT | NOT WS_BORDER | NOT 
-                    WS_TABSTOP,WS_EX_TRANSPARENT | WS_EX_RIGHT | 
-                    WS_EX_STATICEDGE
+    CONTROL         "CHECK",IDOK,"Button",BS_OWNERDRAW | WS_TABSTOP,60,200,46,15
+    CONTROL         "CANCEL",IDCANCEL,"Button",BS_OWNERDRAW | WS_TABSTOP,113,200,46,15
+    LISTBOX         IDC_README,5,50,155,86,LBS_NOINTEGRALHEIGHT | LBS_NOSEL | NOT WS_BORDER | WS_VSCROLL | WS_HSCROLL | WS_TABSTOP,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    CONTROL         "Home",IDC_GOHOMEPAGE,"Button",BS_OWNERDRAW | WS_TABSTOP,5,200,46,15
+    CONTROL         "Progress1",IDC_PROGRESS,"msctls_progress32",PBS_SMOOTH,57,187,103,7,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    CONTROL         "Progress2",IDC_PROGRESS2,"msctls_progress32",PBS_SMOOTH,5,153,155,7,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    LISTBOX         IDC_LIST1,5,141,101,12,LBS_SORT | LBS_NOINTEGRALHEIGHT | LBS_NOSEL | NOT WS_BORDER,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    LISTBOX         IDC_LIST3,57,169,103,12,NOT LBS_NOTIFY | LBS_NOSEL | NOT WS_BORDER,WS_EX_TRANSPARENT | WS_EX_RIGHT | WS_EX_STATICEDGE
+    LISTBOX         IDC_LIST4,57,178,103,12,NOT LBS_NOTIFY | LBS_SORT | LBS_NOSEL | NOT WS_BORDER,WS_EX_TRANSPARENT | WS_EX_RIGHT | WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT1,106,141,54,12,ES_RIGHT | NOT WS_BORDER | NOT WS_TABSTOP,WS_EX_TRANSPARENT | WS_EX_RIGHT | WS_EX_STATICEDGE
 END
 
-IDD_SMALLWINDOW DIALOG DISCARDABLE  0, 0, 165, 43
-STYLE DS_SYSMODAL | DS_SETFOREGROUND | WS_POPUP | WS_BORDER
-FONT 10, "Arial"
+IDD_SMALLWINDOW DIALOGEX 0, 0, 165, 43
+STYLE DS_SYSMODAL | DS_SETFONT | DS_SETFOREGROUND | WS_POPUP | WS_BORDER
+FONT 7, "Tahoma", 400, 0, 0x0
 BEGIN
 END
 
 IDD_SERVERSELECT DIALOGEX 0, 0, 165, 221
-STYLE WS_POPUP | WS_BORDER
-FONT 9, "Arial"
+STYLE DS_SETFONT | WS_POPUP | WS_BORDER
+FONT 7, "Tahoma", 400, 0, 0x0
 BEGIN
-    LISTBOX         IDC_SERVERSELECT,9,53,147,104,LBS_NOINTEGRALHEIGHT | NOT 
-                    WS_BORDER | WS_VSCROLL | WS_TABSTOP,WS_EX_TRANSPARENT | 
-                    WS_EX_STATICEDGE
-    CONTROL         "OK",ID_OK,"Button",BS_OWNERDRAW | WS_TABSTOP,58,200,46,
-                    15
-    CONTROL         "CANCEL",ID_CANCEL,"Button",BS_OWNERDRAW | WS_TABSTOP,
-                    113,200,46,15
-    CONTROL         "Home",ID_HOMEPAGE,"Button",BS_OWNERDRAW | WS_TABSTOP,4,
-                    200,46,15
+    LISTBOX         IDC_SERVERSELECT,9,53,147,104,LBS_NOINTEGRALHEIGHT | NOT WS_BORDER | WS_VSCROLL | WS_TABSTOP,WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    CONTROL         "OK",ID_OK,"Button",BS_OWNERDRAW | WS_TABSTOP,58,200,46,15
+    CONTROL         "CANCEL",ID_CANCEL,"Button",BS_OWNERDRAW | WS_TABSTOP,113,200,46,15
+    CONTROL         "Home",ID_HOMEPAGE,"Button",BS_OWNERDRAW | WS_TABSTOP,4,200,46,15
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_SMALLWINDOW AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_SERVERSELECT AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DRAGONRAJA_DIALOG AFX_DIALOG_LAYOUT
+BEGIN
+    0
 END
 
 #endif    // Neutral resources
@@ -203,10 +226,8 @@ END
 // Neutral (Default) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEUD)
-#ifdef _WIN32
 LANGUAGE LANG_NEUTRAL, SUBLANG_DEFAULT
 #pragma code_page(1252)
-#endif //_WIN32
 
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -215,9 +236,9 @@ LANGUAGE LANG_NEUTRAL, SUBLANG_DEFAULT
 
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
-IDR_MAINFRAME           ICON    DISCARDABLE     "res\\DragonRaja.ico"
+IDR_MAINFRAME           ICON                    "res\\DragonRaja.ico"
 
-#ifndef _MAC
+
 /////////////////////////////////////////////////////////////////////////////
 //
 // Version
@@ -240,18 +261,14 @@ BEGIN
     BEGIN
         BLOCK "041204b0"
         BEGIN
-            VALUE "Comments", "020714 - ?? ??? by kein\0"
-            VALUE "CompanyName", "\0"
-            VALUE "FileDescription", "DragonRaja MFC\0"
-            VALUE "FileVersion", "1, 0, 0, 1\0"
-            VALUE "InternalName", "DragonRaja\0"
-            VALUE "LegalCopyright", "Copyright (C) 2014\0"
-            VALUE "LegalTrademarks", "\0"
-            VALUE "OriginalFilename", "DragonRaja.EXE\0"
-            VALUE "PrivateBuild", "\0"
-            VALUE "ProductName", "DragonRaja\0"
-            VALUE "ProductVersion", "1, 0, 0, 1\0"
-            VALUE "SpecialBuild", "\0"
+            VALUE "Comments", "020714 - ?? ??? by kein"
+            VALUE "FileDescription", "DragonRaja MFC"
+            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "InternalName", "DragonRaja"
+            VALUE "LegalCopyright", "Copyright (C) 2014"
+            VALUE "OriginalFilename", "DragonRaja.EXE"
+            VALUE "ProductName", "DragonRaja"
+            VALUE "ProductVersion", "1, 0, 0, 1"
         END
     END
     BLOCK "VarFileInfo"
@@ -259,8 +276,6 @@ BEGIN
         VALUE "Translation", 0x412, 1200
     END
 END
-
-#endif    // !_MAC
 
 #endif    // Neutral (Default) resources
 /////////////////////////////////////////////////////////////////////////////

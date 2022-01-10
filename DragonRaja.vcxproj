@@ -90,7 +90,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Windows</SubSystem>
-      <OutputFile>C:\Program Files (x86)\Dragonraja Phoenix\DragonRaja.exe</OutputFile>
+      <OutputFile>C:\Users\MrFor\Documents\AutoPatch\Debug\DragonRaja.exe</OutputFile>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
