@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{56262c8b-bb1b-404b-98f5-37d3601757a6}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9aa99a08-e4f3-45ca-a72c-77b228b0d125}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{858a3e82-4515-4817-b6ca-468201cad173}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DebugLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragonRaja.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DragonRajaDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FTPMgr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerSelect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SmallWindow1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DragonRaja.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DebugLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragonRaja.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DragonRajaDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FTPMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ServerSelect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SmallWindow1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\b_cancel.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\b_check.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\b_home.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\b_newid.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\b_start.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\b_update.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CN DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\CN DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CN NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\CN NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\CN UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\CN UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\CN_DW.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\CN_NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\CN_UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Now Connect\Connect.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Now Connect\Connect2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\DownLoad BG.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DragonRaja.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res_korea\DragonRaja.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HP DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\HP DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HP NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\HP NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\HP UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\HP UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\NI_DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\NI_NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\NI_UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\OK DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\OK DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\OK NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\OK NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\OK UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\OK UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\SelectServer BG.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ServerSelect\SelectServer BG.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\ST_DN.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\ST_NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\ST_UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\start.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\UD_DW.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\UD_NO.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\DownLoad\UD_UP.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
